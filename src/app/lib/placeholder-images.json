@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "course-1",
+      "description": "Safety compliance training thumbnail",
+      "imageUrl": "https://picsum.photos/seed/training1/600/400",
+      "imageHint": "safety training"
+    },
+    {
+      "id": "course-2",
+      "description": "Enterprise leadership course",
+      "imageUrl": "https://picsum.photos/seed/training2/600/400",
+      "imageHint": "leadership management"
+    },
+    {
+      "id": "course-3",
+      "description": "Technical skills workshop",
+      "imageUrl": "https://picsum.photos/seed/training3/600/400",
+      "imageHint": "technology code"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Trainer profile picture",
+      "imageUrl": "https://picsum.photos/seed/user1/200/200",
+      "imageHint": "professional person"
+    }
+  ]
+}
